@@ -1,2 +1,9 @@
 # Control F abrir
 # Probando segundo commit
+#git add . todos los archivos
+#git add Clas1apuntes.txt
+#git commit -m comit3
+#git push (sincronizar)
+#hacer un commit con visual
+#hacer 3 commits con consola
+#hacer un push
